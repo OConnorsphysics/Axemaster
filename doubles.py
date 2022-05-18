@@ -1,4 +1,6 @@
 # axe scores style app to record a league worth of scoring
+#a branch of the original program meant for doubles play
+
 # use pygmae for gui
 import pandas as pd
 import pygame, sys
